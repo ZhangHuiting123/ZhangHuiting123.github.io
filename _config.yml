@@ -23,7 +23,7 @@ repository               : "ZhangHuiting123/ZhangHuiting123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/profile.png"
+  avatar           : "../images/zhengjianzhao.png"
   name             : "Huiting Zhang（张惠婷）"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
